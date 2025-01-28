@@ -8,6 +8,5 @@ Visualizing App for IMDb Series
 5. **Frontend Application**: [Next.js](https://nextjs.org/), [React](https://react.dev/)
 6. **Visualization**: [Recharts](https://recharts.org/en-US/), [Shadcn](https://ui.shadcn.com/)
 
-7. ## Demo
-
+## Demo
 ![Demo GIF](./assets/demo.gif)
