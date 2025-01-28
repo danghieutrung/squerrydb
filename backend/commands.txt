@@ -1,0 +1,6 @@
+psql -U imdb2 -d imdb2
+sudo service postgresql start
+psql -U imdb2 -d imdb2 -f load_data.sql
+uvicorn app.main:app --reload
+alembic revision --autogenerate -m ""
+alembic upgrade head
