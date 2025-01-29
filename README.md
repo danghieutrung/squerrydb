@@ -5,8 +5,10 @@ Visualizing App for IMDb Series
 2. **Database Server**: [PostgreSQL](https://www.postgresql.org/)
 3. **Backend Application**: [FastAPI](https://fastapi.tiangolo.com/)
 4. **GraphQL Backend Server**: [Strawberry](https://strawberry.rocks/)
-5. **Frontend Application**: [Next.js](https://nextjs.org/), [React](https://react.dev/)
-6. **Visualization**: [Recharts](https://recharts.org/en-US/), [Shadcn](https://ui.shadcn.com/)
+5. **Framework**: [Next.js](https://nextjs.org/)
+6. **Frontend Application**: [React](https://react.dev/)
+7. **Language**: [TypeScript](https://www.typescriptlang.org/)
+8. **Visualization**: [Recharts](https://recharts.org/en-US/), [Shadcn](https://ui.shadcn.com/)
 
 ## Demo
 ![Demo GIF](./assets/demo.gif)
