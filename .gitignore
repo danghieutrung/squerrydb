@@ -1,2 +1,2 @@
 backend/app/data/raw/*
-backend/pycache/
+**/__pycache__/
